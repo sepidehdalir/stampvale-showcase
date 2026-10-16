@@ -8,3 +8,5 @@ Built with Swift, SwiftUI, PHPicker, ImageIO, CoreGraphics, CoreText and StoreKi
 Production source is private. This repository contains curated product/support material only. Release status: **in production; not submitted or available on the App Store as of October16,2026**. No demand, ranking or revenue claim.
 
 [Support](support.html) · [Privacy](privacy.html)
+
+The six-frame iPhone and six-frame iPad campaigns show authentic final app UI and real app-rendered copies/previews. Demonstration kitchen and staircase photos are owned generated illustrations. The hero is an actual exported copy.
