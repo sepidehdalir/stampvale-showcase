@@ -5,7 +5,7 @@ Deliberate dates and captions for existing job photos, with separate-copy export
 
 Built with Swift, SwiftUI, PHPicker, ImageIO, CoreGraphics, CoreText and StoreKit2. Engineering focuses on strict capture metadata interpretation, explicit missing-date handling, all EXIF orientations, bounded sequential rendering, GPS-free output metadata, cooperative cancellation and verified entitlements. Dates are editable labels, not trusted evidence.
 
-Production source is private. This repository contains curated product/support material only. Release status: **Waiting for Review — version1.0(1) and Lifetime Pro submitted together on October16,2026; not publicly released**. No demand, ranking or revenue claim.
+**Current status — October 19, 2026: Stampvale app version is Rejected.** App Review recovery is in progress. No approval, public release or corrective resubmission is claimed. Prior submission and QA evidence remain historical; app-specific skipped checks remain skipped.
 
 [Support](support.html) · [Privacy](privacy.html)
 
