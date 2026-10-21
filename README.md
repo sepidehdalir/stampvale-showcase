@@ -1,4 +1,6 @@
 # Stampvale: Photo Date Stamp
+
+**Unsubmitted recovery work — October21,2026:** A private-source fix preserves unreadable caption presets rather than replacing them through save/clear. Targeted native tests passed on iOS17 and26.5. No new binary, resubmission, resolved4.3 finding or approval. Existing premium campaigns are unchanged.
 Curated product showcase by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · hello@arvinify.com.
 
 Deliberate dates and captions for existing job photos, with separate-copy exports that preserve originals. Native Universal iPhone/iPad utility, iOS15+. Free full-resolution single-photo export; one Lifetime Pro purchase adds batches and reusable presets. No account, subscription, ads, AI or product backend.
