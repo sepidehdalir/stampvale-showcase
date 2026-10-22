@@ -1,5 +1,7 @@
 # Stampvale: Photo Date Stamp
 
+**October22 continuation — candidate1.0(2), UNSUBMITTED:** Six additional native iOS17 local StoreKit/photo-date-caption/export/share checks pass. Automatic App Store distribution export and strict actual build2 Universal15 signature/package inspection now pass; Apple server validation/upload/submission remain pending. No new campaign pixels, physical/currentiOS15/VoiceOver/server billing proof or4.3 resolution. Existing review reply preserved.
+
 **Unsubmitted recovery work — October21,2026:** A private-source fix preserves unreadable caption presets rather than replacing them through save/clear. Targeted native tests passed on iOS17 and26.5. No new binary, resubmission, resolved4.3 finding or approval. Existing premium campaigns are unchanged.
 Curated product showcase by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · hello@arvinify.com.
 
